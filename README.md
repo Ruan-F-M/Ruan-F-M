@@ -35,6 +35,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Rivenzinha/Rivenzinha/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://https://github.com/rivenzinha/rivenzinha/blob/output/snake.svg" alt="Snake animation" />
 
 ###
