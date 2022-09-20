@@ -1,19 +1,17 @@
 <h1 align="left">Welcome!</h1>
 
-<br>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Rivenzinha" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Rivenzinha" height="150" alt="languages graph"  />
 </div>
 
-<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/81029784/191314971-685ea254-f6d6-4de9-98dc-1f1b16b6a4ba.gif" />
+</div>
 
 ###
 
-<div align="left">
+<div align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="42" alt="spring logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
@@ -24,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
 </div>
 
-<br>
+<img src="https://github.com/rivenzinha/rivenzinha/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -40,9 +38,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://github.com/rivenzinha/rivenzinha/blob/output/snake.svg" alt="Snake animation" />
 
 ###
