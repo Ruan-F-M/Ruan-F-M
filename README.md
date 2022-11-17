@@ -5,10 +5,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Ruan-F-M" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/81029784/191314971-685ea254-f6d6-4de9-98dc-1f1b16b6a4ba.gif" />
-</div>
-
 ###
 
 <div align="center">
